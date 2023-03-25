@@ -1,0 +1,15 @@
+#pragma once
+
+#include <iostream>
+
+/* ERROR CODES THAT MAY APPEAR IN THE PROJECT */
+
+#define SYSTEM_ERROR 0
+#define UTIL_EUC_MOD 1
+#define PROG_PARAMS 2
+#define LSH_SET_BAD_NAME 3
+
+#define CLUSTER_CONFIG_PARAMS 4
+#define CLUSTER_EMPTY_SET 5
+#define CLUSTER_BAD_METHOD 6
+#define CLUSTER_INIT_WRONG_SIZE 7
